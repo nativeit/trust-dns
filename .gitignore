@@ -25,3 +25,8 @@ rls/**
 fuzz/artifacts/**
 fuzz/corpus/**
 *~
+
+# Files from branch dev-0.21.2a
+trust-dns.code-workspace
+docker/**
+docker
